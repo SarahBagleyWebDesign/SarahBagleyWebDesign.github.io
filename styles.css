@@ -71,22 +71,22 @@ body {
 }
 
 /* ===================
-    ALL: Orange Theme
+    ALL: turquoise Theme
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #e44d26;
+    border-bottom: 20px solid #008080;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    border-top: 20px solid #008080;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #008080;
 }
 
 .title {
